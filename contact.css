@@ -1,0 +1,44 @@
+.koms{
+    color: white;
+    width: 100%;
+    padding: 120px 80px;
+    font-family: helvetica;
+    font: bold;
+    font-size: 20px;
+}
+body{
+    background-image: url(bg.jpeg);
+    width: 80%;
+    background-color: rgba(228, 126, 126, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+h2{
+    color : whitesmoke;
+    font-family: helvetica;
+    font-size: 40px;
+    margin-bottom: 40px;
+    padding-left: 30px;
+}
+.ig{
+    background-image: url(instagram-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 50px;
+    background-size: 30px;
+    background-position-y: 3px;
+}
+.facebook{
+    background-image: url(facebook.png);
+    background-repeat: no-repeat;
+    padding-left: 50px ;
+    background-size: 30px;
+    background-position-y: 3px;
+}
+.wa{
+    background-image: url(whatsapp-logo-variant.png);
+    background-repeat: no-repeat;
+    padding-left: 50px ;
+    background-size: 30px;
+    background-position-y: 3px;
+}
+
