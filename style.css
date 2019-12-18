@@ -1,0 +1,22 @@
+.kiri {
+    width: 49%;
+    height: 800px;
+    background-color: grey;
+    float: left;
+}
+.kanan {
+    width: 49%;
+    height: 680px;
+    background-color: grey;
+    float: right;
+}
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+.dp {
+    text-align: center;
+    background-color: slategray;
+    width: 50%;
+    margin-left: 350px;
+}
